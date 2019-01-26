@@ -39,6 +39,7 @@
 					</simpleType>
 				</element>
 				<element name="CMAC_sender" type="string" minOccurs="0" />
+				<element name="CMAC_COG_ID" type="string" minOccurs="0" />
 				<element name="CMAC_sent_date_time" type="dateTime" />
 				<element name="CMAC_status">
 					<simpleType>
