@@ -35,6 +35,7 @@
 							<enumeration value="Required Monthly Test" />
 							<enumeration value="Public Safety" />
 							<enumeration value="State Local WEA Test" />
+							<enumeration value="Earthquake" />
 						</restriction>
 					</simpleType>
 				</element>
