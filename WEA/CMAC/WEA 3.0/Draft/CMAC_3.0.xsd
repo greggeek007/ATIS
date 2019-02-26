@@ -27,7 +27,7 @@
 				</element>
 				<element name="CMAC_referenced_message_cap_identifier"
 					type="string" minOccurs="0" />
-				<element name="CMAC_special_handling" minOccurs="0">
+				<element name="CMAC_special_handling" minOccurs="0" maxOccurs="2">
 					<simpleType>
 						<restriction base="string">
 							<enumeration value="Presidential" />
